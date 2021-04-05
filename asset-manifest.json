@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-3h3pt/static/css/main.8c4240ed.chunk.css",
+    "main.js": "https://.github.io/csb-3h3pt/static/js/main.94b41714.chunk.js",
+    "main.js.map": "https://.github.io/csb-3h3pt/static/js/main.94b41714.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-3h3pt/static/js/runtime-main.ae59075e.js",
+    "runtime-main.js.map": "https://.github.io/csb-3h3pt/static/js/runtime-main.ae59075e.js.map",
+    "static/js/2.cb313412.chunk.js": "https://.github.io/csb-3h3pt/static/js/2.cb313412.chunk.js",
+    "static/js/2.cb313412.chunk.js.map": "https://.github.io/csb-3h3pt/static/js/2.cb313412.chunk.js.map",
+    "index.html": "https://.github.io/csb-3h3pt/index.html",
+    "static/css/main.8c4240ed.chunk.css.map": "https://.github.io/csb-3h3pt/static/css/main.8c4240ed.chunk.css.map",
+    "static/js/2.cb313412.chunk.js.LICENSE.txt": "https://.github.io/csb-3h3pt/static/js/2.cb313412.chunk.js.LICENSE.txt",
+    "static/media/icon-copy.ff7d671c.svg": "https://.github.io/csb-3h3pt/static/media/icon-copy.ff7d671c.svg",
+    "static/media/icon-fb.6aab378b.svg": "https://.github.io/csb-3h3pt/static/media/icon-fb.6aab378b.svg",
+    "static/media/icon-garbage.5b04b1e9.svg": "https://.github.io/csb-3h3pt/static/media/icon-garbage.5b04b1e9.svg",
+    "static/media/icon-insta.c1b94d05.svg": "https://.github.io/csb-3h3pt/static/media/icon-insta.c1b94d05.svg",
+    "static/media/icon-lock.4fb44e12.svg": "https://.github.io/csb-3h3pt/static/media/icon-lock.4fb44e12.svg",
+    "static/media/icon-logout.1e786035.svg": "https://.github.io/csb-3h3pt/static/media/icon-logout.1e786035.svg",
+    "static/media/icon-mail.9a3994b5.svg": "https://.github.io/csb-3h3pt/static/media/icon-mail.9a3994b5.svg",
+    "static/media/icon-menu.7398957a.svg": "https://.github.io/csb-3h3pt/static/media/icon-menu.7398957a.svg",
+    "static/media/icon-qr.3c592322.svg": "https://.github.io/csb-3h3pt/static/media/icon-qr.3c592322.svg",
+    "static/media/icon-share.fdceb819.svg": "https://.github.io/csb-3h3pt/static/media/icon-share.fdceb819.svg",
+    "static/media/icon-spotify.bed3ccba.svg": "https://.github.io/csb-3h3pt/static/media/icon-spotify.bed3ccba.svg",
+    "static/media/icon-tiktok.c5aa8000.svg": "https://.github.io/csb-3h3pt/static/media/icon-tiktok.c5aa8000.svg",
+    "static/media/next-page.6aaf0b36.svg": "https://.github.io/csb-3h3pt/static/media/next-page.6aaf0b36.svg",
+    "static/media/next-page.c27ec6ce.svg": "https://.github.io/csb-3h3pt/static/media/next-page.c27ec6ce.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae59075e.js",
+    "static/js/2.cb313412.chunk.js",
+    "static/css/main.8c4240ed.chunk.css",
+    "static/js/main.94b41714.chunk.js"
+  ]
+}
